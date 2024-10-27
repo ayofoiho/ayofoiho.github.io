@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ayofoiho.github.io/sitemap_index.ayofoiho
